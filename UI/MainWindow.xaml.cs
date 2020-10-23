@@ -134,6 +134,8 @@ namespace UI
                     results.Clear();
                     images.Clear();
                     class_nums.Clear();
+                    
+                    // Test change
 
                     for (int i = 0; i < Environment.ProcessorCount; ++i)
                     {
